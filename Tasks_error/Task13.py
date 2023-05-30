@@ -12,5 +12,5 @@ months_hours = months_hours
 print(days_weeks)
 print(months_hours)
 
-# It should print days and weeks fot the 1st function, eg (365, 52)
-# It should print months and hourss fot the 2nd function, eg (12, 8760)
+# It should print days and weeks for the 1st function, eg (365, 52)
+# It should print months and hours for the 2nd function, eg (12, 8760)
