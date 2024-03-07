@@ -6,7 +6,7 @@ def Sum(price, tax, discount):
 	price = price + tax - discount
 	return price
 
-price = float(input("Please enter the price: "))  
+price = float(input("Please enter the price: "))
 
 tax = calculate_tax(price)
 
